@@ -1,0 +1,9 @@
+assets/*
+protected/runtime/*
+protected/config/database.php
+protected/config/databaserekrutmen.php
+nbproject/*
+nbproject/*
+.idea/*
+files/*
+.DS_Store*
